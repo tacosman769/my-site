@@ -1,0 +1,39 @@
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    grid-gap: 70px;
+  }
+
+  .cards {
+    max-width: 1440px;
+    margin:0 auto;
+    margin-top: 4vh;
+    margin-bottom: 10%;
+  }
+   
+  article {
+    position: relative;
+  }
+   
+  .article-img {
+    height: 200px;
+    width: 100%;
+    border-radius: 8px / 8px;
+    object-fit: cover;
+    filter: saturate(20%);
+    transition-duration: 0.4s;
+  }
+
+  .article-img:hover {
+    transform: matrix(1.04, 0, 0, 1.04, 0, -5);
+    box-shadow:0 15px 30px #afbec2;
+    filter: saturate(100%);
+    border-radius: 0%;
+    transition-duration: 0.4s;
+  }
+   
+  .article-title {
+    color: #3b5f62;
+    margin: 0 auto;
+    padding: 0 0 0 10px;
+  }
