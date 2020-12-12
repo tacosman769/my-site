@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/my-site/static/css/main.c1e23057.chunk.css",
+    "main.js": "/my-site/static/js/main.c015f809.chunk.js",
+    "main.js.map": "/my-site/static/js/main.c015f809.chunk.js.map",
+    "runtime-main.js": "/my-site/static/js/runtime-main.99fd25b5.js",
+    "runtime-main.js.map": "/my-site/static/js/runtime-main.99fd25b5.js.map",
+    "static/js/2.69c01e19.chunk.js": "/my-site/static/js/2.69c01e19.chunk.js",
+    "static/js/2.69c01e19.chunk.js.map": "/my-site/static/js/2.69c01e19.chunk.js.map",
+    "index.html": "/my-site/index.html",
+    "precache-manifest.226726520c81f1060e116b2fce004128.js": "/my-site/precache-manifest.226726520c81f1060e116b2fce004128.js",
+    "service-worker.js": "/my-site/service-worker.js",
+    "static/css/main.c1e23057.chunk.css.map": "/my-site/static/css/main.c1e23057.chunk.css.map",
+    "static/js/2.69c01e19.chunk.js.LICENSE.txt": "/my-site/static/js/2.69c01e19.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-site/static/media/123.8c3b96df.gif",
+    "static/media/IMG_1.jpg": "/my-site/static/media/IMG_1.3440216e.jpg",
+    "static/media/IMG_10.jpg": "/my-site/static/media/IMG_10.b97d8440.jpg",
+    "static/media/IMG_11.jpg": "/my-site/static/media/IMG_11.f10bebb7.jpg",
+    "static/media/IMG_2.jpg": "/my-site/static/media/IMG_2.540db43b.jpg",
+    "static/media/IMG_3.jpg": "/my-site/static/media/IMG_3.22571033.jpg",
+    "static/media/IMG_4.jpg": "/my-site/static/media/IMG_4.4d15e9f1.jpg",
+    "static/media/IMG_5.jpg": "/my-site/static/media/IMG_5.9d63713c.jpg",
+    "static/media/IMG_6.jpg": "/my-site/static/media/IMG_6.2ba56af5.jpg",
+    "static/media/IMG_7.jpg": "/my-site/static/media/IMG_7.122cb08b.jpg",
+    "static/media/IMG_8.jpg": "/my-site/static/media/IMG_8.643a69ec.jpg",
+    "static/media/IMG_9.jpg": "/my-site/static/media/IMG_9.49cc28c1.jpg",
+    "static/media/iconmonstr-discord-1.svg": "/my-site/static/media/iconmonstr-discord-1.7594b796.svg",
+    "static/media/instalogo.png": "/my-site/static/media/instalogo.0e84d592.png",
+    "static/media/mark-github.svg": "/my-site/static/media/mark-github.e50abc21.svg",
+    "static/media/reddit.svg": "/my-site/static/media/reddit.124dd03e.svg",
+    "static/media/setup.jpg": "/my-site/static/media/setup.cf097892.jpg",
+    "static/media/setup1.jpg": "/my-site/static/media/setup1.e2d22ad9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99fd25b5.js",
+    "static/js/2.69c01e19.chunk.js",
+    "static/css/main.c1e23057.chunk.css",
+    "static/js/main.c015f809.chunk.js"
+  ]
+}
